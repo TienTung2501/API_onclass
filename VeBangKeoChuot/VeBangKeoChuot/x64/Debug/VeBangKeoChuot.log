@@ -1,0 +1,9 @@
+﻿  VeBangKeoChuot.cpp
+D:\Bai_Giang_Cac_Mon\Ky2_Nam3\API\Code API 1\VeBangKeoChuot\VeBangKeoChuot\VeBangKeoChuot.cpp(146,5): error C2360: initialization of 'point' is skipped by 'case' label
+D:\Bai_Giang_Cac_Mon\Ky2_Nam3\API\Code API 1\VeBangKeoChuot\VeBangKeoChuot\VeBangKeoChuot.cpp(141,15): message : see declaration of 'point'
+D:\Bai_Giang_Cac_Mon\Ky2_Nam3\API\Code API 1\VeBangKeoChuot\VeBangKeoChuot\VeBangKeoChuot.cpp(163,5): error C2360: initialization of 'point' is skipped by 'case' label
+D:\Bai_Giang_Cac_Mon\Ky2_Nam3\API\Code API 1\VeBangKeoChuot\VeBangKeoChuot\VeBangKeoChuot.cpp(141,15): message : see declaration of 'point'
+D:\Bai_Giang_Cac_Mon\Ky2_Nam3\API\Code API 1\VeBangKeoChuot\VeBangKeoChuot\VeBangKeoChuot.cpp(171,5): error C2360: initialization of 'point' is skipped by 'case' label
+D:\Bai_Giang_Cac_Mon\Ky2_Nam3\API\Code API 1\VeBangKeoChuot\VeBangKeoChuot\VeBangKeoChuot.cpp(141,15): message : see declaration of 'point'
+D:\Bai_Giang_Cac_Mon\Ky2_Nam3\API\Code API 1\VeBangKeoChuot\VeBangKeoChuot\VeBangKeoChuot.cpp(174,5): error C2361: initialization of 'point' is skipped by 'default' label
+D:\Bai_Giang_Cac_Mon\Ky2_Nam3\API\Code API 1\VeBangKeoChuot\VeBangKeoChuot\VeBangKeoChuot.cpp(141,15): message : see declaration of 'point'
